@@ -1,0 +1,17 @@
+[
+ { "id":1, "word":"yak", "length":3 },
+ { "id":2, "word":"yam", "length":3 },
+ { "id":3, "word":"yap", "length":3 },
+ { "id":4, "word":"yaw", "length":3 },
+ { "id":5, "word":"yay", "length":3 },
+ { "id":6, "word":"yea", "length":3 },
+ { "id":7, "word":"yen", "length":3 },
+ { "id":8, "word":"yes", "length":3 },
+ { "id":9, "word":"yet", "length":3 },
+ { "id":10, "word":"yew", "length":3 },
+ { "id":11, "word":"yon", "length":3 },
+ { "id":12, "word":"you", "length":3 },
+ { "id":13, "word":"yow", "length":3 },
+ { "id":14, "word":"yum", "length":3 },
+ { "id":15, "word":"yup", "length":3 }
+]
