@@ -1,0 +1,15 @@
+[
+ { "id":1, "word":"ear", "length":3 },
+ { "id":2, "word":"eat", "length":3 },
+ { "id":3, "word":"ebb", "length":3 },
+ { "id":4, "word":"eel", "length":3 },
+ { "id":5, "word":"egg", "length":3 },
+ { "id":6, "word":"ego", "length":3 },
+ { "id":7, "word":"elf", "length":3 },
+ { "id":8, "word":"elm", "length":3 },
+ { "id":9, "word":"emu", "length":3 },
+ { "id":10, "word":"end", "length":3 },
+ { "id":11, "word":"era", "length":3 },
+ { "id":12, "word":"eve", "length":3 },
+ { "id":13, "word":"eye", "length":3 }
+]
