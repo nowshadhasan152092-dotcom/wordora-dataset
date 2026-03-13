@@ -1,0 +1,12 @@
+[
+ { "id":1, "word":"ice", "length":3 },
+ { "id":2, "word":"icy", "length":3 },
+ { "id":3, "word":"ill", "length":3 },
+ { "id":4, "word":"imp", "length":3 },
+ { "id":5, "word":"ink", "length":3 },
+ { "id":6, "word":"inn", "length":3 },
+ { "id":7, "word":"ion", "length":3 },
+ { "id":8, "word":"ire", "length":3 },
+ { "id":9, "word":"irk", "length":3 },
+ { "id":10, "word":"its", "length":3 }
+]
