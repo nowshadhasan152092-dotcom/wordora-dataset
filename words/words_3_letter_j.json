@@ -1,0 +1,14 @@
+[
+ { "id":1, "word":"jab", "length":3 },
+ { "id":2, "word":"jag", "length":3 },
+ { "id":3, "word":"jam", "length":3 },
+ { "id":4, "word":"jar", "length":3 },
+ { "id":5, "word":"jaw", "length":3 },
+ { "id":6, "word":"jay", "length":3 },
+ { "id":7, "word":"jet", "length":3 },
+ { "id":8, "word":"jig", "length":3 },
+ { "id":9, "word":"job", "length":3 },
+ { "id":10, "word":"jog", "length":3 },
+ { "id":11, "word":"jot", "length":3 },
+ { "id":12, "word":"joy", "length":3 }
+]
