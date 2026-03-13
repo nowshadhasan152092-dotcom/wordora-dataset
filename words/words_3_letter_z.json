@@ -1,0 +1,17 @@
+[
+ { "id":1, "word":"zag", "length":3 },
+ { "id":2, "word":"zap", "length":3 },
+ { "id":3, "word":"zed", "length":3 },
+ { "id":4, "word":"zee", "length":3 },
+ { "id":5, "word":"zig", "length":3 },
+ { "id":6, "word":"zip", "length":3 },
+ { "id":7, "word":"zit", "length":3 },
+ { "id":8, "word":"zoo", "length":3 },
+ { "id":9, "word":"zow", "length":3 },
+ { "id":10, "word":"zen", "length":3 },
+ { "id":11, "word":"zax", "length":3 },
+ { "id":12, "word":"zoa", "length":3 },
+ { "id":13, "word":"zap", "length":3 },
+ { "id":14, "word":"zyx", "length":3 },
+ { "id":15, "word":"zim", "length":3 }
+]
