@@ -1,0 +1,20 @@
+[
+ { "id":1, "word":"kab", "length":3 },
+ { "id":2, "word":"kae", "length":3 },
+ { "id":3, "word":"kaf", "length":3 },
+ { "id":4, "word":"kai", "length":3 },
+ { "id":5, "word":"kat", "length":3 },
+ { "id":6, "word":"kea", "length":3 },
+ { "id":7, "word":"kef", "length":3 },
+ { "id":8, "word":"ken", "length":3 },
+ { "id":9, "word":"kep", "length":3 },
+ { "id":10, "word":"kex", "length":3 },
+ { "id":11, "word":"key", "length":3 },
+ { "id":12, "word":"kid", "length":3 },
+ { "id":13, "word":"kin", "length":3 },
+ { "id":14, "word":"kip", "length":3 },
+ { "id":15, "word":"kit", "length":3 },
+ { "id":16, "word":"koa", "length":3 },
+ { "id":17, "word":"koi", "length":3 },
+ { "id":18, "word":"kop", "length":3 }
+]
