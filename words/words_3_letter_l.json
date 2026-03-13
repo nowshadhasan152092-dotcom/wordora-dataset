@@ -1,0 +1,22 @@
+[
+ { "id":1, "word":"lab", "length":3 },
+ { "id":2, "word":"lad", "length":3 },
+ { "id":3, "word":"lag", "length":3 },
+ { "id":4, "word":"lam", "length":3 },
+ { "id":5, "word":"lap", "length":3 },
+ { "id":6, "word":"law", "length":3 },
+ { "id":7, "word":"lay", "length":3 },
+ { "id":8, "word":"lea", "length":3 },
+ { "id":9, "word":"led", "length":3 },
+ { "id":10, "word":"lee", "length":3 },
+ { "id":11, "word":"leg", "length":3 },
+ { "id":12, "word":"let", "length":3 },
+ { "id":13, "word":"lid", "length":3 },
+ { "id":14, "word":"lie", "length":3 },
+ { "id":15, "word":"lip", "length":3 },
+ { "id":16, "word":"lit", "length":3 },
+ { "id":17, "word":"lob", "length":3 },
+ { "id":18, "word":"log", "length":3 },
+ { "id":19, "word":"lot", "length":3 },
+ { "id":20, "word":"low", "length":3 }
+]
