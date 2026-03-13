@@ -1,0 +1,17 @@
+[
+ { "id":1, "word":"was", "length":3 },
+ { "id":2, "word":"war", "length":3 },
+ { "id":3, "word":"win", "length":3 },
+ { "id":4, "word":"wet", "length":3 },
+ { "id":5, "word":"wig", "length":3 },
+ { "id":6, "word":"wax", "length":3 },
+ { "id":7, "word":"web", "length":3 },
+ { "id":8, "word":"wow", "length":3 },
+ { "id":9, "word":"way", "length":3 },
+ { "id":10, "word":"wok", "length":3 },
+ { "id":11, "word":"wan", "length":3 },
+ { "id":12, "word":"wry", "length":3 },
+ { "id":13, "word":"who", "length":3 },
+ { "id":14, "word":"won", "length":3 },
+ { "id":15, "word":"why", "length":3 }
+]
