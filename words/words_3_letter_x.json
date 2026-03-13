@@ -1,0 +1,17 @@
+[
+ { "id":1, "word":"xen", "length":3 },
+ { "id":2, "word":"xis", "length":3 },
+ { "id":3, "word":"xat", "length":3 },
+ { "id":4, "word":"xly", "length":3 },
+ { "id":5, "word":"xen", "length":3 },
+ { "id":6, "word":"xup", "length":3 },
+ { "id":7, "word":"xan", "length":3 },
+ { "id":8, "word":"xid", "length":3 },
+ { "id":9, "word":"xem", "length":3 },
+ { "id":10, "word":"xer", "length":3 },
+ { "id":11, "word":"xip", "length":3 },
+ { "id":12, "word":"xod", "length":3 },
+ { "id":13, "word":"xus", "length":3 },
+ { "id":14, "word":"xul", "length":3 },
+ { "id":15, "word":"xyr", "length":3 }
+]
