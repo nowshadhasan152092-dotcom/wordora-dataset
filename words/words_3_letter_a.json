@@ -1,0 +1,12 @@
+[
+ { "id":1, "word":"ace", "length":3 },
+ { "id":2, "word":"act", "length":3 },
+ { "id":3, "word":"add", "length":3 },
+ { "id":4, "word":"age", "length":3 },
+ { "id":5, "word":"air", "length":3 },
+ { "id":6, "word":"all", "length":3 },
+ { "id":7, "word":"and", "length":3 },
+ { "id":8, "word":"ant", "length":3 },
+ { "id":9, "word":"any", "length":3 },
+ { "id":10, "word":"are", "length":3 } 
+]
