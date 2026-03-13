@@ -1,0 +1,20 @@
+[
+ { "id":1, "word":"oak", "length":3 },
+ { "id":2, "word":"oar", "length":3 },
+ { "id":3, "word":"oat", "length":3 },
+ { "id":4, "word":"odd", "length":3 },
+ { "id":5, "word":"ode", "length":3 },
+ { "id":6, "word":"off", "length":3 },
+ { "id":7, "word":"oft", "length":3 },
+ { "id":8, "word":"oil", "length":3 },
+ { "id":9, "word":"old", "length":3 },
+ { "id":10, "word":"one", "length":3 },
+ { "id":11, "word":"opt", "length":3 },
+ { "id":12, "word":"orb", "length":3 },
+ { "id":13, "word":"ore", "length":3 },
+ { "id":14, "word":"our", "length":3 },
+ { "id":15, "word":"out", "length":3 },
+ { "id":16, "word":"owe", "length":3 },
+ { "id":17, "word":"owl", "length":3 },
+ { "id":18, "word":"own", "length":3 }
+]
