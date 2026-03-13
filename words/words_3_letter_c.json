@@ -1,0 +1,16 @@
+[
+ { "id":1, "word":"cab", "length":3 },
+ { "id":2, "word":"can", "length":3 },
+ { "id":3, "word":"cap", "length":3 },
+ { "id":4, "word":"car", "length":3 },
+ { "id":5, "word":"cat", "length":3 },
+ { "id":6, "word":"cow", "length":3 },
+ { "id":7, "word":"cop", "length":3 },
+ { "id":8, "word":"cup", "length":3 },
+ { "id":9, "word":"cut", "length":3 },
+ { "id":10, "word":"cod", "length":3 },
+ { "id":11, "word":"cob", "length":3 },
+ { "id":12, "word":"coy", "length":3 },
+ { "id":13, "word":"cry", "length":3 }
+  
+]
