@@ -1,0 +1,15 @@
+[
+ { "id":1, "word":"bad", "length":3 },
+ { "id":2, "word":"bag", "length":3 },
+ { "id":3, "word":"bat", "length":3 },
+ { "id":4, "word":"bed", "length":3 },
+ { "id":5, "word":"bee", "length":3 },
+ { "id":6, "word":"bet", "length":3 },
+ { "id":7, "word":"big", "length":3 },
+ { "id":8, "word":"bit", "length":3 },
+ { "id":9, "word":"box", "length":3 },
+ { "id":10, "word":"boy", "length":3 },
+ { "id":11, "word":"bus", "length":3 },
+ { "id":12, "word":"but", "length":3 } 
+
+]
