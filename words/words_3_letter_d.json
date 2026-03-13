@@ -1,0 +1,15 @@
+[
+ { "id":1, "word":"dab", "length":3 },
+ { "id":2, "word":"dad", "length":3 },
+ { "id":3, "word":"dam", "length":3 },
+ { "id":4, "word":"day", "length":3 },
+ { "id":5, "word":"den", "length":3 },
+ { "id":6, "word":"dew", "length":3 },
+ { "id":7, "word":"did", "length":3 },
+ { "id":8, "word":"die", "length":3 },
+ { "id":9, "word":"dig", "length":3 },
+ { "id":10, "word":"dim", "length":3 },
+ { "id":11, "word":"dip", "length":3 },
+ { "id":12, "word":"dot", "length":3 },
+ { "id":13, "word":"dry", "length":3 }
+]
