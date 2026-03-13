@@ -1,0 +1,18 @@
+[
+ { "id":1, "word":"nab", "length":3 },
+ { "id":2, "word":"nag", "length":3 },
+ { "id":3, "word":"nap", "length":3 },
+ { "id":4, "word":"nay", "length":3 },
+ { "id":5, "word":"neb", "length":3 },
+ { "id":6, "word":"nee", "length":3 },
+ { "id":7, "word":"net", "length":3 },
+ { "id":8, "word":"new", "length":3 },
+ { "id":9, "word":"nil", "length":3 },
+ { "id":10, "word":"nip", "length":3 },
+ { "id":11, "word":"nod", "length":3 },
+ { "id":12, "word":"nor", "length":3 },
+ { "id":13, "word":"not", "length":3 },
+ { "id":14, "word":"now", "length":3 },
+ { "id":15, "word":"nun", "length":3 },
+ { "id":16, "word":"nut", "length":3 }
+]
