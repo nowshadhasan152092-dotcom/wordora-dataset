@@ -1,0 +1,19 @@
+[
+ { "id":1, "word":"mad", "length":3 },
+ { "id":2, "word":"man", "length":3 },
+ { "id":3, "word":"map", "length":3 },
+ { "id":4, "word":"mat", "length":3 },
+ { "id":5, "word":"max", "length":3 },
+ { "id":6, "word":"may", "length":3 },
+ { "id":7, "word":"men", "length":3 },
+ { "id":8, "word":"met", "length":3 },
+ { "id":9, "word":"mid", "length":3 },
+ { "id":10, "word":"mix", "length":3 },
+ { "id":11, "word":"mob", "length":3 },
+ { "id":12, "word":"mod", "length":3 },
+ { "id":13, "word":"mom", "length":3 },
+ { "id":14, "word":"mop", "length":3 },
+ { "id":15, "word":"mud", "length":3 },
+ { "id":16, "word":"mug", "length":3 },
+ { "id":17, "word":"mum", "length":3 }
+]
