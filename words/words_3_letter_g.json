@@ -1,0 +1,20 @@
+[
+ { "id":1, "word":"gab", "length":3 },
+ { "id":2, "word":"gad", "length":3 },
+ { "id":3, "word":"gag", "length":3 },
+ { "id":4, "word":"gal", "length":3 },
+ { "id":5, "word":"gap", "length":3 },
+ { "id":6, "word":"gas", "length":3 },
+ { "id":7, "word":"gay", "length":3 },
+ { "id":8, "word":"gel", "length":3 },
+ { "id":9, "word":"gem", "length":3 },
+ { "id":10, "word":"get", "length":3 },
+ { "id":11, "word":"gig", "length":3 },
+ { "id":12, "word":"gin", "length":3 },
+ { "id":13, "word":"god", "length":3 },
+ { "id":14, "word":"got", "length":3 },
+ { "id":15, "word":"gum", "length":3 },
+ { "id":16, "word":"gun", "length":3 },
+ { "id":17, "word":"gut", "length":3 },
+ { "id":18, "word":"guy", "length":3 }
+]
